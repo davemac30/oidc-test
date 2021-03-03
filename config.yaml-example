@@ -1,0 +1,8 @@
+---
+aad_client_id:
+aad_tenant_id:
+aad_client_secret:
+aad_callback_url:
+# this is for session store encryption - can be generated e.g.
+#   openssl rand 32 -base64
+session_store_key:
